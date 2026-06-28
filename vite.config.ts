@@ -4,7 +4,7 @@ import tailwindcss from '@tailwindcss/vite'
 
 // 👉 Change this to match your GitHub repository name for project-pages deploys.
 //    e.g. https://<user>.github.io/JANORKAR/  ->  BASE = '/JANORKAR/'
-const BASE = '/JANORKAR/'
+const BASE = '/janorkar/'
 
 // In dev, redirect a bare "/" to the base path so the app loads at the same
 // URL shape it will have on GitHub Pages.
